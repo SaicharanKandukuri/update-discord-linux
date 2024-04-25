@@ -6,7 +6,7 @@
     exit 1
 }
 
-cp update-docker.sh /usr/bin/update-discord
+cp update-discord.sh /usr/bin/update-discord
 
 echo Installation complete
 echo just run \"sudo update-discord\" when it says its your luck day

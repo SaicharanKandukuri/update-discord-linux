@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --------
-# DISCORD AUTO UPDATE SCRIPT
+# DISCORD UPDATE SCRIPT
 #
 # Authored by zman
 #
